@@ -1,2 +1,1 @@
-# V-harbour-core
-Harbour 3.4 fork
+This is a Harbour 3.4 (Viktor's fork) fork...
