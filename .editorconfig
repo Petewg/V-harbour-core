@@ -17,7 +17,7 @@ end_of_line = lf
 end_of_line = crlf
 
 [*.txt]
-end_of_line = crlf
+end_of_line = lf
 
 [{**/3rd/**,*.dif}]
 trim_trailing_whitespace = no
