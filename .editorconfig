@@ -16,6 +16,9 @@ end_of_line = lf
 [*.bat]
 end_of_line = crlf
 
+[*.txt]
+end_of_line = crlf
+
 [{**/3rd/**,*.dif}]
 trim_trailing_whitespace = no
 charset =
