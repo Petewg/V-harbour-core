@@ -1,4 +1,4 @@
-This is a mutilated  [Harbour 3.4 (Viktor's fork)](https://github.com/vszakats/harbour-core) fork,
+This is a mutilated  [Harbour 3.4 (Viktor's fork)](https://github.com/vszakats/harbour-core) fork,  
 that is used **mainly** for maintaining   
 [Harbour Functions Dictionary wiki](https://github.com/Petewg/V-harbour-core/wiki)   
 and secondarily to sporadically  commit some patches.
