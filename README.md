@@ -1,3 +1,6 @@
+<sup>Note: This is a hb3.4 fork.    
+If you're looking for **Functions Dictionary** click [here!](https://github.com/Petewg/V-harbour-core/wiki)</sup> 
+
 # Welcome to Harbour
 [![License](https://img.shields.io/badge/license-GPLv2%20%2B%20Library%20Exception-blue.svg)](LICENSE.txt "License")
 [![Download](https://img.shields.io/badge/download-snapshot_binary_(3.4)-blue.svg)](https://github.com/vszakats/harbour-core/releases "Download snapshot release")
