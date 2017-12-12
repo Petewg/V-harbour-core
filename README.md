@@ -1,4 +1,4 @@
-<u><sup>Note: If you're looking for the **Functions Dictionary** please click [here!](https://github.com/Petewg/V-harbour-core/wiki)</sup></u> 
+### <u><sup>Note: If you're looking for the ***“Harbour Functions Dictionary„*** please click [here!](https://github.com/Petewg/V-harbour-core/wiki)</sup></u> 
 
 # Welcome to Harbour
 [![License](https://img.shields.io/badge/license-GPLv2%20%2B%20Library%20Exception-blue.svg)](LICENSE.txt "License")
